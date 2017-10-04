@@ -1,0 +1,11 @@
+•	capitalizing the first letter of a word;
+•	checking all combinations of upper/lowercase for words;
+•	inserting a number randomly in the word;
+•	putting numbers on the ends of words;
+•	putting numbers on the beginning of words;
+•	putting the same pattern at both ends, like *foobar*;
+•	replacing letters like "o" and "l" with numbers like "0" and "1";
+•	punctuating the end of words;
+•	duplicating the first letter, or all letters in the word;
+•	combining two words together; and
+•	putting punctuation or space between the words.
